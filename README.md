@@ -12,7 +12,7 @@ Another aspect to address is the performance impact of JavaScript and CSS animat
 Compatibility is another significant challenge I encountered in parallax website development. Given the wide range of devices, screen sizes, and browsers in use today, ensuring consistent behavior and appearance across different platforms can be complex. I must thoroughly test my parallax websites on various devices and browsers, identifying and addressing any compatibility issues that arise. Responsive design techniques, such as fluid layouts and adaptive image scaling, are essential for creating a seamless experience across different screen sizes and orientations.<br><br>
 Furthermore, accessibility considerations should not be overlooked when developing a parallax website. It is crucial to ensure that the website remains usable and accessible for individuals with disabilities, including those who rely on assistive technologies. Providing alternative text for images, maintaining proper keyboard navigation, and adhering to web accessibility guidelines are essential for creating an inclusive experience.</p>
 
-<p> AUTHORS: Mfumu Wealth Mabunda</p>
+<p> AUTHORS: James C. James-Ude </p>
 
 <a href="https://alx-portfolio-project.netlify.app/" alt="Project_link">Deployed Project link</a>
 
